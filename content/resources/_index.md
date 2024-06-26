@@ -1,11 +1,11 @@
 ---
-title: "What Is C#?"
+title: "Resources"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
 lastmod: 2024-06-26T00:00:00+00:00
 draft: false
-weight: 888
+weight: 999
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,5 +13,3 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
-Content coming soon....

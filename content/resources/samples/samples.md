@@ -1,11 +1,11 @@
 ---
-title: "What Is C#?"
+title: "Samples"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
 lastmod: 2024-06-26T00:00:00+00:00
 draft: false
-weight: 888
+weight: 999
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -14,4 +14,6 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Content coming soon....
+Samples here is a collection of snippits and projects offered for perusal.
+
+Note that I keep these as personal reference projects, so they may / may not be complete and very likely not going to be pest practice.

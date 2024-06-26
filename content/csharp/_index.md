@@ -2,8 +2,8 @@
 title: "C#"
 description: ""
 summary: ""
-date: 2023-09-07T16:12:03+02:00
-lastmod: 2023-09-07T16:12:03+02:00
+date: 2024-06-26T00:00:00+00:00
+lastmod: 2024-06-26T00:00:00+00:00
 draft: false
 weight: 999
 toc: true

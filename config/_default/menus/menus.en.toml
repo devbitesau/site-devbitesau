@@ -38,10 +38,12 @@
   url = "/monogame/introduction/whatis"
   weight = 20
 
-    [[main]]
-  name = "Samples"
-  url = "/samples/introduction/whatis"
-  weight = 30
+
+
+[[main]]
+name = "Resources"
+url = "/resources/introduction/whatis"
+weight = 30
 
 #[[main]]
 #  name = "Blog"

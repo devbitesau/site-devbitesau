@@ -2,8 +2,8 @@
 title: "What Is MonoGame?"
 description: ""
 summary: ""
-date: 2023-09-07T16:13:18+02:00
-lastmod: 2023-09-07T16:13:18+02:00
+date: 2024-06-26T00:00:00+00:00
+lastmod: 2024-06-26T00:00:00+00:00
 draft: false
 weight: 888
 toc: true
@@ -13,4 +13,5 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-asdfasdfasdf
+
+Some MonoGame musings to come soon
