@@ -24,21 +24,34 @@ Because we're all different, no real right or wrong way.
 ## Sites
 
 
-|          |                                                                                                                 |
-|:--------:|-----------------------------------------------------------------------------------------------------------------|
-|   Wiki   | [MonoGame Community Wiki](https://monogamecommunity.wiki/doku.php?id=start)                                     |
-|  Links   | [https://github.com/UnterrainerInformatik/GameDevelopmentLinks]()                                               |
-| Tutorial | [https://apostolique.github.io/apos-docs/getting-started/]()                                                    |
-| Tutorial | [https://learn-monogame.github.io/tutorial/game-settings/  ]()                                                  |
-| Tutorial | [https://github.com/Oyyou/MonoGame_Tutorials    ]()                                                             |
-| ~~Down~~ | [https://www.trccompsci.online/mediawiki/index.php/MonoGame_Tutorials   ]()                                     |
-| Tutorial | [https://gamefromscratch.com/monogame-tutorial-series/   ]()                                                    |
-| Tutorial | [https://gamedevacademy.org/how-to-code-games-in-monogame/  ]()                                                 |
-| Tutorial | [https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-and-animations-with-monogame]() |
-| Tutorial | [https://devblogs.microsoft.com/xamarin/build-your-first-game-with-monogame-getting-started/     ]()            |
-| Tutorial | [https://ostindiegames.wordpress.com/2015/02/17/basic-monogame-tutorial/]()                                     |
-|  Sample  | [https://github.com/AristurtleDev/MadeWithMonoGame]()                                                           |
-| Tutorial | [https://manbeardgames.github.io/docs/tutorials/monogame-3-8/scenes/testing-our-setup ]()                       |
-| Tutorial | [ https://textbooks.cs.ksu.edu/cis580/00-forward/index.html]()                                                  |
-| Tutorial | [https://rawgit.com/MrGrak/Monogame-Getting-Started/master/index.html]()                                        |
-|  Video   | [Game Dev Quickie](https://www.youtube.com/@GameDevQuickie/videos)                                              |
+|          |                                                                                                                                   |
+|:--------:|-----------------------------------------------------------------------------------------------------------------------------------|
+|   Wiki   | [MonoGame Community Wiki](https://monogamecommunity.wiki/doku.php?id=start)                                                       |
+| Tutorial | [Learn MonoGame](https://learn-monogame.github.io/)                                                                               |
+|   Wiki   | [TRC Computer Science Wiki](https://www.trccompsci.online/mediawiki/index.php/MonoGame_Tutorials)                                 |
+| Tutorial | [Games From Scratch](https://gamefromscratch.com/monogame-tutorial-series/)                                                       |
+| Tutorial | [Game Dev Academy](https://gamedevacademy.org/how-to-code-games-in-monogame/)                                                     |
+| Tutorial | [Code And Web](https://www.codeandweb.com/texturepacker/tutorials/how-to-create-sprite-sheets-and-animations-with-monogame)       |
+| Tutorial | [Microsoft DevBlog - First MonoGame](https://devblogs.microsoft.com/xamarin/build-your-first-game-with-monogame-getting-started/) |
+| Tutorial | [Ost Indie Games](https://ostindiegames.wordpress.com/2015/02/17/basic-monogame-tutorial/)                                        |
+| Tutorial | [Man Beard Games](https://manbeardgames.github.io/docs/tutorials/monogame-3-8/scenes/testing-our-setup)                           |
+| Tutorial | [CS KSU Edu (CIS580)]( https://textbooks.cs.ksu.edu/cis580/00-forward/index.html)                                                 |
+| Tutorial | [MrGrak](https://rawgit.com/MrGrak/Monogame-Getting-Started/master/index.html)                                                    |
+
+## Youtube
+
+|                                                                    |
+|--------------------------------------------------------------------|
+| [Game Dev Quickie](https://www.youtube.com/@GameDevQuickie/videos) |
+| [Coding with Sphere](https://www.youtube.com/@codingwithsphere)    |
+
+
+## Repositories
+
+|          |                                                                                            |
+|----------|--------------------------------------------------------------------------------------------|
+| Tutorial | [Dev Quickie](https://github.com/LubiiiCZ/DevQuickie/)                                     |
+| Library  | [AristurtleDev Splash Screen](https://github.com/AristurtleDev/MadeWithMonoGame)           |
+| Big List | [Unterrainer Gamedev Links](https://github.com/UnterrainerInformatik/GameDevelopmentLinks) |
+| Tutorial | [Oyyou MonoGame Tutorials](https://github.com/Oyyou/MonoGame_Tutorials)                    |
+
