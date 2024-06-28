@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "What is a Game Developer"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
@@ -13,3 +13,15 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+What is game dev about?
+
+Roles:
+- programmer
+- Story boarder
+- artist
+- marketer
+
+Journey
+
+TimeLine

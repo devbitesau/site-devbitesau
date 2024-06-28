@@ -16,4 +16,4 @@ seo:
 
 Samples here is a collection of snippits and projects offered for perusal.
 
-Note that I keep these as personal reference projects, so they may / may not be complete and very likely not going to be pest practice.
+Note that these are kept as personal reference projects, so they may / may not be complete and very likely not going to be pest practice.

@@ -12,3 +12,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+This site does not take any personal information, store cookies or generally invade your privacy in any way.
+
+There are no trackers enabled here

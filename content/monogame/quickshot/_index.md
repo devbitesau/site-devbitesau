@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
+title: "Quick Shots"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
 lastmod: 2024-06-26T00:00:00+00:00
 draft: false
-weight: 1
+weight: 75
 toc: true
 seo:
   title: "" # custom title (optional)

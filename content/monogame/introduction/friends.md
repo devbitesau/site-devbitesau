@@ -1,11 +1,11 @@
 ---
-title: "Introduction"
+title: "XNA Friends"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
 lastmod: 2024-06-26T00:00:00+00:00
 draft: false
-weight: 1
+weight: 150
 toc: true
 seo:
   title: "" # custom title (optional)
@@ -13,3 +13,11 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+Friends of the XNA preservation 
+
+- MonoGame
+- FlatRedBall
+- KNI
+- FNA
+- Compute Fork
