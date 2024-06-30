@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
+## Getting Started
 Getting started is pretty straight forward - regardless of the platform or tool chain that you've decided
 on. The most difficult decision will be deciding on a project structure.
 

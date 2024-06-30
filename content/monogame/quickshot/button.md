@@ -1,11 +1,12 @@
 ---
-title: "License"
+title: "Basic Button"
 description: ""
 summary: ""
 date: 2024-06-26T00:00:00+00:00
 lastmod: 2024-06-26T00:00:00+00:00
 draft: false
-type: "legal"
+weight: 500
+toc: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -13,6 +14,4 @@ seo:
   noindex: false # false (default) or true
 ---
 
-## Dev Bites
-Dev Bites and associated logos are copyright of the site maintainer, currently @theLaffa.
-
+How to center drawing of a sprite

@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
+## Bare Necessities
 - .NET 6 sdk or above.
 - A text editor of choice
 

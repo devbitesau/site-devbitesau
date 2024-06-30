@@ -13,7 +13,7 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
+## Friends?
 There are a number of projects that could be considered friends of XNA. Some of these
 aim to extend MonoGame itself, others have an equal focus to maintaining XNA compatibility.
 

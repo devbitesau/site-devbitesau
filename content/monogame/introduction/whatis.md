@@ -13,15 +13,17 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
-
+## Introduction
 Monogame is a C# framework for creating games across multiple platforms.
 
 Leveraging the C# and .NET ecosystem, managing cross platform builds with 
 minimal different in code (if any at all) is remarkably easy.
 
+Originally, MonoGame was called XNA Touch and created to bring XNA games to the mobile market.
+
 Also, being open source opens up a wealth of opportunity for public libraries to extend it.
 
-Current Platforms
+## Current Platforms
 - Windows (OpenGL)
 - Windows (DirectX)
 - MacOS (OpenGL)
@@ -29,6 +31,7 @@ Current Platforms
 - Linux (OpenGL)
 - Android (OpenGL)
 
+## What It Does
 As a framework, it handles many lower level tasks.
 - Game window management
 - 2D Rendering
@@ -38,12 +41,14 @@ As a framework, it handles many lower level tasks.
 - Content optimisation per platform (Ideal compressions)
 - Math library extended specifically for game calculations
 
+## What It Isn't
 On the flip side, it is only a framework. Not that this is a negative, but set expecations accordingly.
 - No scene editor
 - No visual audio manager
 - No native tilemap support
+- No visual particle editor
 
-Basically, if you want it, it needs to be done in code.
+## Recap
 
 Just remember to have a look out for samples or libraries - someone else may have published a solution
 to your requirement already (Aesprite loading, Tiled maps) and can often be imported into your project
@@ -54,7 +59,7 @@ effort of hundreds of people over the years it's been alive.
 
 Welcome to the community!
 
-Official MonoGame Links
+## Official MonoGame Links
 
 - [MonoGame Home](https://MonoGame.net)
 - [MonoGame Getting Started](https://docs.monogame.net/articles/index.html)

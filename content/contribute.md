@@ -15,4 +15,3 @@ seo:
 
 Suggestions and corrections to be directed to the github discussions page.
 
-Forks / PR requests welcome if it fits with the design and structure of this site.
