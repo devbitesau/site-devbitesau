@@ -57,9 +57,10 @@ Some useful applications
 - Dragonbones
 - Spriter
 - [OpenToonz](https://opentoonz.github.io/e/)
+- [Pixel Over](https://pixelover.io)
 
 ## Particle Editor
-- https://effekseer.github.io/en/
+- [Effekseer](https://effekseer.github.io/en/)
 
 ## Reverse Engenierring
 - [Ghidra](https://ghidra-sre.org/)

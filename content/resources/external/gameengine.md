@@ -16,17 +16,21 @@ seo:
 
 Various game engines and framewroks
 
-| Lang  | Site        |
-|:-----:|-------------|
-|  C#   | Monogame    |
-| Java  | LibGDX      |
-|  C#   | FlatRedBall |
-|  C#   | Stride3D    |
-|  C#   | Flax        |
-|  GDS  | Godot       |
-|  Lua  | Defold      |
-|  Js   | Phaserio    |
-|  Js   | CtJs        |
-| Haxe  | Heapsio     |
-| Haxe  | HaxeFlixel  |
-| rust  | Bevy        | 
+| Lang | Site          |
+|:----:|---------------|
+|  C#  | Monogame      |
+| Java | LibGDX        |
+|  C#  | FlatRedBall   |
+|  C#  | Stride3D      |
+|  C#  | Flax          |
+| GDS  | Godot         |
+| Lua  | Defold        |
+|  Js  | Phaserio      |
+|  Js  | CtJs          |
+| Haxe | Heapsio       |
+| Haxe | HaxeFlixel    |
+| Rust | Bevy          | 
+| Lua  | Wicked Engine |
+| C++  | O3DE          |
+| Rust | Fyrox         |
+|  C#  | Falco Engine  |
