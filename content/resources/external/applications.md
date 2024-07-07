@@ -25,6 +25,9 @@ Some useful applications
 ## OSI License Picker
 - https://choosealicense.com/
 
+## Misc
+- [Lospec](https://lospec.com)
+
 ## Model Editors
 - https://www.blockbench.net/
 - https://armorpaint.org/

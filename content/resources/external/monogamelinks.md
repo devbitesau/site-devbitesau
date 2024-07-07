@@ -37,6 +37,7 @@ Because we're all different, no real right or wrong way.
 | Tutorial | [Man Beard Games](https://manbeardgames.github.io/docs/tutorials/monogame-3-8/scenes/testing-our-setup)                           |
 | Tutorial | [CS KSU Edu (CIS580)]( https://textbooks.cs.ksu.edu/cis580/00-forward/index.html)                                                 |
 | Tutorial | [MrGrak](https://rawgit.com/MrGrak/Monogame-Getting-Started/master/index.html)                                                    |
+| Tutorial | [RBWhitaker](http://rbwhitaker.wikidot.com/)                                                                                      |
 
 ## Youtube
 
