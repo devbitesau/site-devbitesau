@@ -14,17 +14,21 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Nice simple bob action
-
 _Assuming a new cross-platform desktop project_
 
-_[Make It Bob - Game1.cs](https://github.com/devbitesau/quickshots/blob/main/makeitbob/Game1.cs)_
+_[Make It Bob - Source](https://github.com/devbitesau/quickshots/blob/main/makeitbob/MakeItBobGame.cs)_
 
+## Assets
 This excercise will be using the _moon.png_ asset from [Kenny Background Elements](https://www.kenney.nl/assets/background-elements) - full credit to Kenny for the creation.
 
 Load this into the content tool, remembering to build afterward.
 
 ![moon.png](img/moon.png)
+
+## Intro
+Just a nice simple bob action, handy for props or floaty things.
+
+## Bobby
 
 Starting on the code, create some member properties on the Game1 class to store the texture and 
 three positions.
