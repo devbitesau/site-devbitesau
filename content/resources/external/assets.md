@@ -19,6 +19,7 @@ Game Art
 - [OpenGameArt](https://opengameart.org/)
 - [Itch.io](https://itch.io/game-assets/free)
 - [CraftPix](https://craftpix.net/)
+- [Game Dev Market](https://www.gamedevmarket.net/)
 
 Audio Collections
 - [Sonniss GDC Freebies](https://gdc.sonniss.com/)

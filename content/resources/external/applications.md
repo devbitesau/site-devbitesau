@@ -18,32 +18,30 @@ Some useful applications
 
 ## Pixel / Raster Editors
 - [PiskelApp](https://www.piskelapp.com/)
-- Gimp
-- Krita
-- Fresco
-
-## OSI License Picker
-- https://choosealicense.com/
+- [Gimp](https://www.gimp.org/)
+- [Krita](https://krita.org/en/)
+- [Fresco](https://www.adobe.com/au/products/fresco.html)
 
 ## Misc
 - [Lospec](https://lospec.com)
+- [DevToys](https://devtoys.app/)
+- [OSI Licence Picker](https://choosealicense.com/)
 
 ## Model Editors
-- https://www.blockbench.net/
-- https://armorpaint.org/
-- https://www.mixamo.com/#/
-- Blender
+- [BlockBench](https://www.blockbench.net/)
+- [ArmourPaint](https://armorpaint.org/)
+- [Mixamo](https://www.mixamo.com/#/)
+- [Blender](https://www.blender.org/)
 
 ## Material Editors
-- https://armorlab.org/
-- MindTex
+- [ArmorLab](https://armorlab.org/)
 
 ## Code Editors
 - [Zed](https://zed.dev/)
 - [VS Code](https://code.visualstudio.com/)
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Rider](https://www.jetbrains.com/rider/)
-- Sublime Text
+- [Sublime Text](https://www.sublimetext.com/)
 
 ## Tile Map Editors
 - [Tiled](https://www.mapeditor.org/)
@@ -52,18 +50,20 @@ Some useful applications
 
 ## Audio Editors
 - [ChipTone](https://sfbgames.itch.io/chiptone)
-- famistudio
-- anvil
-- fl studio
+- [Famistudio](https://famistudio.org/)
+- [Anvil](https://www.anvilstudio.com/)
+- [FL Studio](https://www.image-line.com/)
 
 ## Animation Editors
-- Dragonbones
-- Spriter
+- [Dragonbones](https://dragonbones.github.io/en/index.html)
+- [Spriter](https://brashmonkey.com/)
 - [OpenToonz](https://opentoonz.github.io/e/)
 - [Pixel Over](https://pixelover.io)
+- [Spine](http://esotericsoftware.com/)
+- [Rive](https://rive.app/)
 
 ## Particle Editor
 - [Effekseer](https://effekseer.github.io/en/)
 
-## Reverse Engenierring
+## Reverse Engineering 
 - [Ghidra](https://ghidra-sre.org/)
