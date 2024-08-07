@@ -34,6 +34,10 @@ with MonoGame (They share origin with XNA) but runs a slightly different philoso
 not support Android builds, but has arguably better platform support elsewhere with the recent
 .NET 8 / AOT updates. 
 
+## [FNANET](https://github.com/FNA-NET/FNA)
+
+A fork of FNA focused on bringing an easier development process and adding support for Android.
+
 ## [Compute Fork](https://github.com/cpt-max/MonoGame)
 
 A fork of MonoGame that aims to add support for compute shaders.

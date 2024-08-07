@@ -19,6 +19,7 @@ Various game engines and framewroks
 | Lang | Site                                       |
 |:----:|--------------------------------------------|
 |  C#  | [Monogame](https://monogame.net/)          |
+|  C#  | [KNI](https://github.com/kniEngine/kni)    |
 |  C#  | [FnaXna](https://fna-xna.github.io/)       |
 |  C#  | [FnaNet](https://github.com/FNA-NET/FNA)   |
 | Java | [LibGDX](https://libgdx.com/)              |
