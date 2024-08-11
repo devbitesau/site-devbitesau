@@ -1,12 +1,10 @@
 ---
-title: "Origin"
+title: "Origins"
 description: ""
 summary: ""
-date: 2024-08-12T00:00:00+00:00
-lastmod: 2024-08-12T00:00:00+00:00
-draft: false
-weight: 500
-toc: true
+date: 2024-08-11T22:38:58+10:00
+lastmod: 2024-08-11T22:38:58+10:00
+draft: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
@@ -24,10 +22,12 @@ This excercise will be using the _MetalPanel.png_ asset from [Kenny UI Elements]
 Load this into the content tool, remembering to build afterward.
 
 ![moon.png](img/metalPanel.png)
+
 ![bar.png](img/bar.png)
 
+
 ## Intro
-A basic game that cycles through different origin points to visualise the effect.
+A basic demo that cycles through different origin points to visualise the effect.
 
 ## Origin
 
