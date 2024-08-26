@@ -14,5 +14,5 @@ seo:
 ---
 
 ## Dev Bites
-Dev Bites and associated logos are copyright of the site maintainer, currently @theLaffa.
 
+Dev Bites and associated logos are copyright of the site maintainer, currently @theLaffa.
