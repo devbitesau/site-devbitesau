@@ -61,9 +61,10 @@ Some useful applications
 - [Pixel Over](https://pixelover.io)
 - [Spine](http://esotericsoftware.com/)
 - [Rive](https://rive.app/)
+- [Natron](https://natrongithub.github.io/)
 
 ## Particle Editor
 - [Effekseer](https://effekseer.github.io/en/)
 
-## Reverse Engineering 
+## Reverse Engineering
 - [Ghidra](https://ghidra-sre.org/)

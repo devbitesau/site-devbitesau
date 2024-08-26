@@ -47,7 +47,7 @@ tba
 ## MonoGame Project Templates
 
 ```bash
-dotnet new —install MonoGame.Templates.CSharp
+dotnet new install MonoGame.Templates.CSharp
 ```
 
 ## Optional - Workloads
@@ -66,7 +66,7 @@ For Ios, builds need to be run on physical Mac hardware
 
 ### Visual Studio 2022 (Windows Only)
 
-Visual Studio 2022 is the minimum required version to build and develop MonoGame with (.NET 6 requirement actually). The 
+Visual Studio 2022 is the minimum required version to build and develop MonoGame with (.NET 6 requirement actually). The
 'Community' edition is fine for this unless you are earning over their community license threshold.
 
 - [Visual Studio Downloads](https://visualstudio.microsoft.com/downloads/)
@@ -79,7 +79,7 @@ If you did not install .NET 8 sdk previously make sure it's selected in the 'Ind
 
 ### Visual Studio Code
 
-Visual Studio Code is more than a plain text editor but not quite a full IDE. It does however run on all platforms - 
+Visual Studio Code is more than a plain text editor but not quite a full IDE. It does however run on all platforms -
 WIndows, Linux and MacOs.
 
 
