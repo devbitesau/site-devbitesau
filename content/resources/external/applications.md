@@ -68,3 +68,11 @@ Some useful applications
 
 ## Reverse Engineering
 - [Ghidra](https://ghidra-sre.org/)
+
+## Interactive Tutorial
+
+- [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit)
+
+## Hosting
+
+- [PikaPods](https://www.pikapods.com/)
