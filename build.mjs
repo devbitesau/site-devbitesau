@@ -117,7 +117,6 @@ fileList.forEach((file) => {
 
     file.nameOnly = fileName
     file.extension = fileExtension
-    console.log(file.parentPath)
     file.pathNormalized = file.parentPath.replaceAll('\\', '/').replace(contentPath, '')
 
 
