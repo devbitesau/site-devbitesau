@@ -1,0 +1,78 @@
+body {
+
+    font-size: medium;
+  }
+
+  .fullBackground {
+    background: #fff;
+    background-image: radial-gradient(rgba(134, 138, 134, 0.27) 5%, transparent 0);
+    background-size: 30px 30px;
+    position: fixed;
+
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+  }
+
+
+.glassHero {
+  /* From https://css.glass */
+  background: linear-gradient(to bottom right, rgba(218, 230, 197, 0.65), rgb(140, 236, 84), rgba(246, 241, 237, 0.91));
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(64, 225, 40, 0.86);
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #ffffff;
+  font-weight: bold;
+  font-size: larger;
+  margin-bottom: 40px;
+}
+
+.glassHero h1 {
+  font-size: 3em;
+  display: block;
+}
+
+.glassHero h2 {
+  font-size: 1em;
+  float: none;
+  position: relative;
+  display: block;
+  bottom: 0px;
+}
+
+.glassHero hr {
+  border-color: green;
+}
+
+
+.shinyButton {
+  /* From https://css.glass */
+  background: linear-gradient(to left, rgb(140, 236, 84), rgba(246, 241, 237, 0.91), rgba(246, 241, 237, 0.91),rgb(140, 236, 84));
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(137, 143, 136, 0.86);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  font-weight: bold;
+  font-size: larger;
+  margin-left: 30px;
+  margin-right: 30px;
+
+  padding: 10px;
+
+  cursor: pointer;
+}
