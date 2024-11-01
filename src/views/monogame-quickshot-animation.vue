@@ -5,10 +5,10 @@
 <p>This excercise will be using elements from <a href="https://pixelfrog-assets.itch.io/pixel-adventure-1">Pixel Adventure 1</a> - full credit to Pixel Frog for the creation.</p>
 <p>Load these into the content tool, remembering to build afterward.</p>
 <ul>
-<li>Up : <img src="@/assets/monogame/quickshot/up.png" alt="Up.png"></li>
-<li>Down : <img src="@/assets/monogame/quickshot/Down.png" alt="Down.png"></li>
-<li>Idle : <img src="@/assets/monogame/quickshot/Idle.png" alt="Idle.png"></li>
-<li>Run : <img src="@/assets/monogame/quickshot/Run.png" alt="Run.png"></li>
+<li>Up : <img src="@/assets/monogame/quickshot/up.png" alt="up.png"></li>
+<li>Down : <img src="@/assets/monogame/quickshot/down.png" alt="down.png"></li>
+<li>Idle : <img src="@/assets/monogame/quickshot/idle.png" alt="idle.png"></li>
+<li>Run : <img src="@/assets/monogame/quickshot/run.png" alt="run.png"></li>
 </ul>
 <h2>Intro</h2>
 <p>There are many different ways to generate an animation in MonoGame, but one common method is a simple flip book style.</p>

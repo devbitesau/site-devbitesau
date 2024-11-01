@@ -18,10 +18,10 @@ This excercise will be using elements from [Pixel Adventure 1](https://pixelfrog
 
 Load these into the content tool, remembering to build afterward.
 
-- Up : ![Up.png](up.png)
-- Down : ![Down.png](Down.png)
-- Idle : ![Idle.png](Idle.png)
-- Run : ![Run.png](Run.png)
+- Up : ![up.png](up.png)
+- Down : ![down.png](down.png)
+- Idle : ![idle.png](idle.png)
+- Run : ![run.png](run.png)
 
 ## Intro
 There are many different ways to generate an animation in MonoGame, but one common method is a simple flip book style.
