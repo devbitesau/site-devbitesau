@@ -3,7 +3,6 @@ import { get, useDropZone } from '@vueuse/core'
 import { onMounted, ref, useTemplateRef } from 'vue'
 import Chart from 'chart.js/auto'
 
-Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 
 class statPoint {
   constructor() {
