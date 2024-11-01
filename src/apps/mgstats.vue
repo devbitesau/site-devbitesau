@@ -1,7 +1,7 @@
 <script setup>
 import { get, useDropZone } from '@vueuse/core'
 import { onMounted, ref, useTemplateRef } from 'vue'
-import { Chart, Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale } from 'chart.js'
+import Chart from 'chart.js/auto'
 
 Chart.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 
