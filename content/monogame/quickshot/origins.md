@@ -29,6 +29,3 @@ A basic demo that cycles through different origin points to visualise the effect
 
 
 
-<video controls width="500">
-  <source src="../img/origin.mp4" type="video/mp4" />
-</video>
