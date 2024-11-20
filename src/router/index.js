@@ -54,6 +54,16 @@ const allRoutes = [
         component: () => import('../views/resources-monogamelinks.vue')
     },    
     {
+        name: 'friends',
+        path: '/monogame/Introduction/friends',
+        component: () => import('../views/monogame-Introduction-friends.vue')
+    },    
+    {
+        name: 'xna',
+        path: '/monogame/Introduction/xna',
+        component: () => import('../views/monogame-Introduction-xna.vue')
+    },    
+    {
         name: 'animation',
         path: '/monogame/quickshot/animation',
         component: () => import('../views/monogame-quickshot-animation.vue')
